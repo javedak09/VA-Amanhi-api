@@ -11,6 +11,7 @@ namespace VA_Amanhi_api.Controllers
 
         private readonly IWebHostEnvironment _webHostEnvironment;
 
+
         public HomeController(ILogger<HomeController> logger, IWebHostEnvironment webHostEnvironment)
         {
             _logger = logger;
