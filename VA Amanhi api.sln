@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VA Amanhi api", "VA Amanhi api.csproj", "{7F0416A5-53FE-4DCA-A231-9DC0A038B84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0416A5-53FE-4DCA-A231-9DC0A038B84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0416A5-53FE-4DCA-A231-9DC0A038B84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0416A5-53FE-4DCA-A231-9DC0A038B84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0416A5-53FE-4DCA-A231-9DC0A038B84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2262F7E2-3813-484D-AE80-EC2C35700708}
+	EndGlobalSection
+EndGlobal
